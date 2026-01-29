@@ -6,21 +6,6 @@ It provides insights into revenue trends, category-wise performance, customer co
 
 ---
 
-## 📌 Dashboard Preview
-
-![Flipkart Sales Dashboard](Screenshot%202026-01-29%20161544.png)
-
----
-
-## 🎯 Key Metrics
-
-- 💰 Total Revenue: ₹438K  
-- 📦 Total Orders: 500  
-- 🧾 Average Order Value: ₹875.54  
-- 📈 Total Profit: ₹36.96K  
-
----
-
 ## 📊 Dashboard Features
 
 ### 1️⃣ Revenue Analysis
@@ -50,15 +35,6 @@ It provides insights into revenue trends, category-wise performance, customer co
 
 ---
 
-## 📈 Business Insights Derived
-
-- Identified peak revenue months
-- Compared category contribution percentages
-- Analyzed high-value customers
-- Evaluated overall profitability trends
-
----
-
 ## 🚀 Learning Outcomes
 
 - Hands-on Power BI dashboard development
@@ -66,16 +42,6 @@ It provides insights into revenue trends, category-wise performance, customer co
 - DAX measures for revenue & profit
 - Data storytelling using visual analytics
 
----
-
-## 📌 Future Improvements
-
-- Add region-wise analysis
-- Include dynamic filters/slicers
-- Integrate real-time dataset
-- Add forecasting using time series analysis
-
----
 
 ## 👨‍💻 Author
 

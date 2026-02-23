@@ -1,5 +1,7 @@
 # 📊 Flipkart Sales Dashboard – Power BI
 
+<img width="1280" height="719" alt="Flipkart dashboard image" src="https://github.com/user-attachments/assets/9c4bf03c-55eb-4b17-b39e-e55207c8a716" />
+
 This project showcases an interactive Power BI dashboard built to analyze and visualize e-commerce sales performance data.
 
 It provides insights into revenue trends, category-wise performance, customer contributions, and profitability metrics.
